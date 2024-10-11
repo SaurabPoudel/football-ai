@@ -1,0 +1,5 @@
+.venv
+football-players-detection-12
+runs
+*.mp4
+*.pt
